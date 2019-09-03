@@ -16,3 +16,5 @@ make
 pip -r requirements.txt
 ./main.py
 ```
+
+Credit: https://github.com/ardiya
